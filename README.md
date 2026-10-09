@@ -1,14 +1,10 @@
-<!-- Replace every YOUR_* placeholder. GitHub username used below: redline111111111111 -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:003b00,100:00ff41&height=240&section=header&text=%3E_%20X&fontSize=80&fontColor=00ff41&animation=twinkling&fontAlignY=40&desc=Ethical%20Hacker%20%7C%20Full-Stack%20Engineer%20%7C%20Security%20Researcher&descAlignY=64&descSize=18&descColor=b6ffc8" alt="banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20X&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5B%20Ethical%20Hacker%20%7C%20Full-Stack%20Engineer%20%7C%20Security%20Researcher%20%5D&descAlignY=60&descSize=18" alt="banner" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2600&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=820&height=50&repeat=true&lines=root%40x%3A~%24+whoami;Ethical+Hacker+%7C+Pentester+%7C+CTF+Player;Full-Stack+Engineer+%E2%80%94+Web+%2B+Mobile+%2B+Cloud;Breaking+things+to+make+them+unbreakable;Stay+curious.+Stay+ethical.)](https://github.com/redline111111111111)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=820&height=50&lines=root%40x%3A~%24+whoami;Ethical+Hacker+%7C+Pentester+%7C+CTF+Player;Full-Stack+Engineer+%E2%80%94+Web+%2B+Mobile+%2B+Cloud;Breaking+things+to+make+them+unbreakable;Stay+curious.+Stay+ethical.)](https://github.com/redline111111111111)
 
 <img src="https://komarev.com/ghpvc/?username=redline111111111111&label=PROFILE+VIEWS&color=00ff41&labelColor=000000&style=for-the-badge" alt="views" />
-<img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=statuspage&logoColor=00ff41&labelColor=000000&color=00ff41" alt="status" />
-<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-000000?style=for-the-badge&logo=handshake&logoColor=00ff41&labelColor=000000&color=00ff41" alt="open" />
 
 </div>
 
@@ -98,16 +94,11 @@ reach me -> X@X.com
 ## 📊 `~/stats`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=redline111111111111&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00ff41&text_color=b6ffc8&icon_color=00ff41&ring_color=00ff41&custom_title=X%27s%20GitHub%20Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redline111111111111&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=b6ffc8&custom_title=Top%20Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=redline111111111111&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00ff41&text_color=00ff41&icon_color=00ff41&ring_color=00ff41&custom_title=X%27s%20GitHub%20Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=redline111111111111&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=b6ffc8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redline111111111111&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=redline111111111111&hide_border=true&background=000000&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=00ff41" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
@@ -136,5 +127,5 @@ reach me -> X@X.com
 > ⚠️ **Disclaimer:** Everything here is for education and authorized security testing only. I practice ethical hacking.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:003b00,100:000000&height=140&section=footer&text=Stay%20curious.%20Stay%20ethical.&fontSize=22&fontColor=00ff41&fontAlignY=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:003b00,100:000000&height=140&section=footer&text=Stay%20curious.%20Stay%20ethical.&fontSize=22&fontColor=00ff41&fontAlignY=70" width="100%" />
 </p>
