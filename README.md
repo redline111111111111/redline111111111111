@@ -1,9 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hi%2C%20I'm%20X&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5B%20Ethical%20Hacker%20%7C%20Full-Stack%20Engineer%20%7C%20Security%20Researcher%20%5D&descAlignY=60&descSize=18" alt="banner" />
-
 <div align="center">
 
-<!-- Animated waving hand (hi / bye bye) -->
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="waving hand" width="64" height="64" />
+<h1>
+  Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="waving hand" width="45" height="45" /> , I'm X
+</h1>
+
+<h3>[ Ethical Hacker | Full-Stack Engineer | Security Researcher ]</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=820&height=50&lines=root%40x%3A~%24+whoami;Ethical+Hacker+%7C+Pentester+%7C+CTF+Player;Full-Stack+Engineer+%E2%80%94+Web+%2B+Mobile+%2B+Cloud;Breaking+things+to+make+them+unbreakable;Stay+curious.+Stay+ethical.)](https://github.com/redline111111111111)
 
