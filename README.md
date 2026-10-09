@@ -133,5 +133,5 @@ reach me -> X@X.com
 </p>
 
 <p align="center">
-  <b>why following the ruls when you make it🐱‍👤</b>
+  <b>why following the rules when you make it🐱‍👤</b>
 </p>
