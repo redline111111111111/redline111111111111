@@ -131,3 +131,7 @@ reach me -> X@X.com
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:003b00,100:000000&height=140&section=footer&text=Stay%20curious.%20Stay%20ethical.&fontSize=22&fontColor=00ff41&fontAlignY=70" width="100%" />
 </p>
+
+<p align="center">
+  <b>why following the ruls when you make it🐱‍👤</b>
+</p>
